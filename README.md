@@ -1,6 +1,6 @@
 # String Formation Using Genetic Algorithm
 
-An implementation of genetic algorithm which generates a particular string given as input. Invovles:
+An implementation of a simple genetic algorithm which generates a particular string given as input. Involves:
 
     1. Population Initiliazation.
     2. Parent Selection. It is done using the Tournament Selection technique.
