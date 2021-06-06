@@ -3,7 +3,7 @@ from random import sample
 import random
 
 string = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890, .-;:_!\"#%&/()=?@${[]}"
-target = "money won't erase your pain"
+target = "This is a sample string"
 
 
 class Item:
